@@ -1,0 +1,5 @@
+{
+  "name": "PCAP SMPP-M Parser",
+  "description": "An application to upload a PCAP file and parse the first SMPP-M packet based on the YDN XXX-YYY specification. It displays all parsed fields and decodes the short message content.",
+  "requestFramePermissions": []
+}
